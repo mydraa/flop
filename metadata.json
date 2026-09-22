@@ -1,0 +1,6 @@
+{
+  "name": "Flop!EDT",
+  "description": "Emploi du temps Flop!EDT autonome avec notification persistante du cours actuel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
